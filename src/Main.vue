@@ -1,22 +1,12 @@
 <template>
   <div id="app">
-    <Navbar />
-    <b-row>
-      <b-col xs="0" lg="2"></b-col>
-      <b-col xs="12" lg="8"></b-col>
-      <b-col xs="0" lg="2"></b-col>
-      <div class="container">
-        <slot></slot>
-      </div>
-    </b-row>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import Navbar from "./components/Navbar";
 export default {
-  name: "app",
-  components: { Navbar }
+  name: "app"
 };
 </script>
 
@@ -35,7 +25,7 @@ a {
   color: $primary;
 }
 .text-description {
-  color: #00b84f;
+  color: $primary;
   font-size: 18px;
   font-family: Volte Medium;
 }

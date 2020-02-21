@@ -1,0 +1,63 @@
+<svg width="395" height="300" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="302" width="397" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_49">
+   <ellipse stroke="#000" ry="30.499999" rx="30.999999" id="svg_3" cy="64.953119" cx="276.833328" stroke-opacity="null" stroke-width="5" fill="#9e6632"/>
+   <ellipse stroke="#7f3f00" ry="19.999999" rx="19.999999" id="svg_5" cy="66.453118" cx="275.833328" stroke-width="5" fill="#7f3f00"/>
+   <ellipse stroke="#000" ry="30.499999" rx="30.999999" id="svg_2" cy="52.953119" cx="141.833328" stroke-opacity="null" stroke-width="5" fill="#9e6632"/>
+   <ellipse stroke="#7f3f00" ry="19.999999" rx="19.999999" id="svg_4" cy="54.453118" cx="143.833328" stroke-width="5" fill="#7f3f00"/>
+   <ellipse stroke="#000" ry="108.499996" rx="131.999998" id="svg_1" cy="157.953121" cx="199.833327" stroke-opacity="null" stroke-width="5" fill="#9e6632"/>
+   <ellipse stroke="#000" ry="8" rx="8" id="svg_6" cy="143.453118" cx="182.833329" stroke-opacity="null" stroke-width="5" fill="#000000"/>
+   <ellipse stroke="#000" ry="8" rx="8" id="svg_7" cy="144.453118" cx="217.833329" stroke-opacity="null" stroke-width="5" fill="#000000"/>
+   <ellipse stroke="#ffd4aa" ry="29.999998" rx="26.999999" id="svg_8" cy="185.453119" cx="199.833328" stroke-width="5" fill="#ffd4aa"/>
+   <ellipse stroke="#000" ry="6.5" rx="7.5" id="svg_9" cy="166.953118" cx="199.333329" stroke-opacity="null" stroke-width="5" fill="#000000"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="186.453117" x2="197.833329" y1="174.453117" x1="198.833329" fill-opacity="null" stroke-opacity="null" stroke-width="5" stroke="#000" fill="none"/>
+   <line stroke="#000" transform="rotate(-46.97660446166992 202.82304382324222,190.65130615234375) " stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="196.808308" x2="202.323032" y1="184.494286" x1="203.323032" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none"/>
+   <line stroke="#000" transform="rotate(33.52409362792969 193.92796325683597,191.33232116699216) " stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="197.83527" x2="193.427979" y1="184.82937" x1="194.427979" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none"/>
+  <animateTransform
+  attributeName="transform"
+  type="rotate"
+  from="0 190 50"
+  to="1 190 50"
+  dur="0.4s"
+  repeatCount="indefinite" />
+  </g>
+//left
+  <ellipse stroke="#000" ry="26.499988" rx="30.999999" id="svg_13" cy="249.753654" cx="109.033241" stroke-opacity="null" stroke-width="5" fill="#9e6632">
+    <animateTransform attributeName="transform"
+        type="translate"
+        from="0 10"
+        to="0 0"
+        begin="0s"
+        dur="0.4s"
+        repeatCount="indefinite"
+      /></ellipse>
+//right
+  <ellipse stroke="#000" ry="26.499988" rx="30.999999" id="svg_15" cy="248.953652" cx="285.033705" stroke-opacity="null" stroke-width="5" fill="#9e6632">
+    <animateTransform attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="0 10"
+        begin="0s"
+        dur="0.4s"
+        repeatCount="indefinite"
+      /></ellipse>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_52" y2="223.668981" x2="74.166667" y1="194.780093" x1="31.944444" fill-opacity="null" stroke-opacity="null" stroke-width="6" stroke="#000" fill="none">
+    <animate attributeName="opacity" dur="0.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" values="1;0.2;1" begin="-0.6"></animate>
+  </line>
+  <line stroke="#000" transform="rotate(-19.927921295166016 53.425926208496016,237.37268066406244) " stroke-linecap="null" stroke-linejoin="null" id="svg_53" y2="246.067121" x2="65.196848" y1="228.678253" x1="41.65501" fill-opacity="null" stroke-opacity="null" stroke-width="6" fill="none">
+    <animate attributeName="opacity" dur="0.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" values="1;0.2;1" begin="-0.6"></animate>
+  </line>
+  <line stroke="#000" transform="rotate(116.54486083984375 344.90740966796875,211.4467620849609) " stroke-linecap="null" stroke-linejoin="null" id="svg_57" y2="225.891204" x2="366.018526" y1="197.002315" x1="323.796304" fill-opacity="null" stroke-opacity="null" stroke-width="6" fill="none">
+    <animate attributeName="opacity" dur="0.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" values="1;0.2;1" begin="-1"></animate>
+  </line>
+  <line stroke="#000" transform="rotate(-46.34480285644531 341.57409667968756,238.8541564941406) " stroke-linecap="null" stroke-linejoin="null" id="svg_58" y2="247.548601" x2="353.344986" y1="230.159734" x1="329.803148" fill-opacity="null" stroke-opacity="null" stroke-width="6" fill="none">
+    <animate attributeName="opacity" dur="0.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" values="1;0.2;1" begin="-1"></animate>
+  </line>
+ </g>
+</svg>
